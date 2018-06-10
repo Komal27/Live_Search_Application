@@ -9,7 +9,9 @@ Install JSON server to avoid cross origin request error on your browser.
 
 JSON installation :-
 npm install -g json-serverDep
+
 json-server --port=3009 --watch <yourJsonFIleName>.json
+  
 Localhost server
 
 ### Deployment
